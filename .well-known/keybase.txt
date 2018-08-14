@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/foklepoint
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.foklepoint.com
+  * I am foklepoint (https://keybase.io/foklepoint) on keybase.
+  * I have a public key with fingerprint 0BE5 ED21 CB2E C30D 1E16  5EE0 7F84 A311 F72D 9020
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b0d9af99fdb1b7444aadd4742c4d81bf53c4b01ce7287984cf0ee3e2a9a2a1580a",
+      "fingerprint": "0be5ed21cb2ec30d1e165ee07f84a311f72d9020",
+      "host": "keybase.io",
+      "key_id": "7f84a311f72d9020",
+      "kid": "0101b0d9af99fdb1b7444aadd4742c4d81bf53c4b01ce7287984cf0ee3e2a9a2a1580a",
+      "uid": "babecf31d052411f0203ef0651403319",
+      "username": "foklepoint"
+    },
+    "service": {
+      "hostname": "www.foklepoint.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1534278767,
+  "expire_in": 157680000,
+  "prev": "e6a501f190f1be997f31dd45d48d9067a5cd7989d30bca21c0e028ec5ba73977",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUYBpNh2UCpZIsSjTsxkLPgPfdj771LAqk0jSM1QDY70Yj349zlurB3
+d+/C8hEULWDqEMSAOwOkkBpWBIEymmBDbmou04wCyRizkw3DCCpEpUNqUvcyOv3p
+Z+fPmfOe53ne53nPaYx6LEQX+m7N4ScWkxufDx2Z5ULylJdKKhBOFsoQcwVig8sb
+LBSg4s63SQJiRlCAAg4VGFZkGFHgAEcRBMGygkBQBMYTAg04kcR5gkMBDymMphia
+4EUUQhxiLMNiLCBplEWMiCjZrdDlcEl2tybLQRIKGOA5DPI4KgAITCSEKCXSBIsD
+IFKYwKAYqhILZEVjqOY4VoEpkqzW1EP+sr3/wP/PvouX5TiWg7yIAwElMUJtp7bC
+oYiaSECgOA4YDahAl50tgipalG2F0CFrUSuNiFovkXiojVbL8hDj8XhS/sWl8HKR
+quFwyW6ZlwvV+wK326GYNb67zLFMgFz+Q6l8TrIL6jxVRgl0KZJsR8xARfJuSdMG
+JE5gFE2ZKCMCSx2SC+ZLGoKkTDSqLq0PLEHMLAJNLIkCETCoCDjIMJQWUSBIgaDV
+cZooluQFdTKMgKMcz6rPhUIUoyFPciyFMxSFaOmcdhkxE0A1ylpVn4pktbPuYhdE
+KvV7V+ArQ0J1IXGG+JWPT8/Fj6T4o9YZdl579AnDVmg/MEQfEf2o0ty+ein+6Yup
+Ut1nr1gst71vnLr7Ym9i8rZ7Uzl7zbENl45k9e0LBubH+MzhP/Wtg5ZuxTkaG6hi
+7/SeWx8I/I3WBadbDrc+5TySmHd6Q9LZo5Hj/u7N0x0JtX6vwQvbKsY37d24ZoRT
+PmwPxLTJ1QeWQv19Q7nZlR+XJxd4xuVunNHFVTelSW8OIDMDMxljN40H2g0v5Gwa
+F+o/PbalZdbvrNndciI4HSgSdpg//8R3L6c1Lb3qvNQcPahEXNH/7H1/fZB40JGZ
+1TRxvmX/1rOIrvXWy9Ut1gtD52zNSbrrXR1fz+8BW8xTG+fAt+j3qZPumdj7Ytna
+Mjt9Om01v5CySj/l/CJhztsUTdSG7wo2HJP6s8sW9a3uo89NJbPUN5FftdeNvpXa
+h/c/k9SZ1XTynbETz15BbsYHZwdyk8tj14RONthG/At3LTrfLFfIbbve/Xv9RzVR
+7IVDZ6yJu371Xbvcn751+8n9xoj7YZdu+9hwd19j29Xm97A02x7j1TPHRxe9eR3l
+0b1PztRG3NhRCv7K6GpWDtVPbLiV9+Op3Z3DRZlx+OVXvesmY8yuzaMDq6IyfvJ9
+8Ef/1GjCd6U3PJEZ4T94hiedPb9VZAgTsYawoXbrxYT5XzqPvx4dbi++M1v1WkGu
+JTEd61+7/eBg9lLXwbSenfTAA2jpyY4zFHb73l74MuYf
+=ZyG7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/foklepoint
+
+==================================================================
